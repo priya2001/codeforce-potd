@@ -13,6 +13,7 @@ int main()
     while (t--)
     {
         int a[n];
+
         for (int i = 0; i < n; i++)
         {
             S = S + a[i];
