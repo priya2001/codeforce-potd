@@ -1,0 +1,1 @@
+{"name":"Local: D719","url":"r:\\My code\\potd\\D719.cpp","tests":[{"id":1706029068209,"input":"1\n6\n1 6 3 4 5 6","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"r:\\My code\\potd\\D719.cpp","group":"local","local":true}

@@ -19,7 +19,7 @@ int main()
         for(int i=0;i<3;i++)
         {
             if(count[i]<3)
-
+// Convert 'A' + i to its corresponding character
             {
                 cout<<char('A'+i)<<endl;
             }
